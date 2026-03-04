@@ -60,7 +60,7 @@ public class PetApplication extends Application {
         mainLayout.setAlignment(Pos.CENTER);
 
         Scene scene = new Scene(mainLayout, 700, 450);
-        stage.setTitle("RadioButtonDemo");
+        stage.setTitle("OOP2 Assignment 2");
         stage.setScene(scene);
         stage.show();
 
